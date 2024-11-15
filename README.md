@@ -1,2 +1,3 @@
 # nlp_project
 A Resume Analysis for Git Repository project aims to analyze resumes stored in a repository to assess their compatibility with job requirements. 
+A Resume Analysis for Git Repository project aims to analyze resumes stored in a repository to assess their compatibility with job requirements. It leverages NLP techniques to extract and evaluate key sections of the resumes, such as skills, experience, and education. This process is automated to provide meaningful insights, including compatibility scores and semantic matching of resume content with predefined job roles or descriptions.
